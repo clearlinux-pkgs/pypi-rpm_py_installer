@@ -4,7 +4,7 @@
 #
 Name     : pypi-rpm_py_installer
 Version  : 1.1.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/21/37/f557c91ec825ebf4aa1fd0603359c106e70d4b6443a31e5d98f618340178/rpm-py-installer-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/21/37/f557c91ec825ebf4aa1fd0603359c106e70d4b6443a31e5d98f618340178/rpm-py-installer-1.1.0.tar.gz
 Summary  : RPM Python binding Installer
@@ -67,7 +67,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656376194
+export SOURCE_DATE_EPOCH=1656405508
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
