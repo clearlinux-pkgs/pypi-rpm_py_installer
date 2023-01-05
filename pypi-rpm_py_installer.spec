@@ -4,7 +4,7 @@
 #
 Name     : pypi-rpm_py_installer
 Version  : 1.2.0
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/30/b8/ddb7509bdad54417fc2d2139aa925c1fd2ac5def4bd9093c0878c17f5d3f/rpm-py-installer-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/30/b8/ddb7509bdad54417fc2d2139aa925c1fd2ac5def4bd9093c0878c17f5d3f/rpm-py-installer-1.2.0.tar.gz
 Summary  : RPM Python binding Installer
